@@ -1,0 +1,22 @@
+Hello Designer! :)
+
+In this folder i have attached PNGs of materials needed to texture the 3D models
+
+This process will need to be done in unity
+
+1. Import the 3D model into unity (the ones you already have) along with the Material PNGs 
+
+2. Right click > Create > Material
+
+3. Open the New material inspector and locate ''Albedo''
+
+4. Drag the material to the Albedo box, this should now show a textured material in the project files
+
+5. Drag the appropriate created Material from the project files to the 3D object in the Unity Editor and this should texture the 3D object
+
+6: Repeat process for other 3D objects in Unity
+
+
+I have found this method is the only way that is working currently and sorry for any inconvinience. Please ping me for any issues arising 
+
+Rose

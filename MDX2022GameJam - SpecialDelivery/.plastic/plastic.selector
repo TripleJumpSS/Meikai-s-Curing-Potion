@@ -1,0 +1,4 @@
+repository "MDX2022GameJam - SpecialDelivery@shueyshear1@cloud"
+  path "/"
+    br "/main"
+    co "/main"

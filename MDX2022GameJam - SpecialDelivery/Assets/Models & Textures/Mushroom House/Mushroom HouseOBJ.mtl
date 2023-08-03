@@ -1,0 +1,55 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl DOOR
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-gtrlek2h\\Image_1.png
+
+newmtl MUSHROOM
+Ns 4.450904
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-wdt_l3wl\\Image_0.png
+
+newmtl Material.001
+Ns 0.903497
+Ka 1.000000 1.000000 1.000000
+Kd 0.370065 0.086500 0.015996
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl glass
+Ns 212.661036
+Ka 1.000000 1.000000 1.000000
+Kd 0.381390 0.715371 0.792676
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl window
+Ns 28.800007
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-viua0jug\\Image_2.png

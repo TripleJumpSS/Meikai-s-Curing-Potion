@@ -1,0 +1,108 @@
+# Blender MTL File: 'None'
+# Material Count: 9
+
+newmtl GrassWater
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-7z3bsumf\\Image_14.png
+map_Kd C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-n5mowouo\\Image_12.jpg
+
+newmtl Hut_Beams1
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl LooseRocks
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-vj7nts7i\\Image_23.png
+map_Kd C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-2tpogpat\\Image_21.jpg
+
+newmtl Rocks1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-qdu58gdg\\Image_11.png
+map_Kd C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-wge14_fe\\Image_9.jpg
+
+newmtl Roof_Tiles
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-nrlwrhmc\\Image_20.png
+map_Kd C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-ld7o1axk\\Image_18.jpg
+
+newmtl Rope
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-z_cjbxqd\\Image_8.png
+map_Kd C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-jpup5y3k\\Image_6.jpg
+
+newmtl Well1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-rqa7pyft\\Image_5.png
+map_Kd C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-hsfz9jpo\\Image_3.jpg
+
+newmtl Wood_Beams
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-wov8fm54\\Image_17.png
+map_Kd C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-5xchi8rx\\Image_15.jpg
+
+newmtl lambert9
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-wlouhwg6\\Image_2.png
+map_Kd C:\\Users\\shuey\\AppData\\Local\\Temp\\gltfimg-e0zq23ee\\Image_0.jpg

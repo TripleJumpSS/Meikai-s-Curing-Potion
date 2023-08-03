@@ -1,0 +1,243 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.6f1 (7da38d85baf6) revision 8233869'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 16145 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity Projects (HP)\Unity 2021.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/shuey/OneDrive/Documents/GitHub/Meikai-s-Curing-Potion/MDX2022GameJam - SpecialDelivery
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+61060
+Successfully changed project path to: C:/Users/shuey/OneDrive/Documents/GitHub/Meikai-s-Curing-Potion/MDX2022GameJam - SpecialDelivery
+C:/Users/shuey/OneDrive/Documents/GitHub/Meikai-s-Curing-Potion/MDX2022GameJam - SpecialDelivery
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 261.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.6f1 (7da38d85baf6)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity Projects (HP)/Unity 2021.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/shuey/OneDrive/Documents/GitHub/Meikai-s-Curing-Potion/MDX2022GameJam - SpecialDelivery/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   NVIDIA
+    VRAM:     5968 MB
+    Driver:   31.0.15.2879
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity Projects (HP)/Unity 2021.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity Projects (HP)/Unity 2021.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity Projects (HP)/Unity 2021.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56940
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity Projects (HP)/Unity 2021.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity Projects (HP)/Unity 2021.3.6f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity Projects (HP)/Unity 2021.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.012623 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 216.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.017 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1017ms)
+		BeginReloadAssembly (97ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (756ms)
+			LoadAssemblies (99ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (159ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (485ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (78ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (217ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (128ms)
+				ProcessInitializeOnLoadMethodAttributes (60ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011578 seconds.
+Android Extension - Scanning For ADB Devices 829 ms
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\shuey\OneDrive\Documents\GitHub\Meikai-s-Curing-Potion\MDX2022GameJam - SpecialDelivery\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\shuey\OneDrive\Documents\GitHub\Meikai-s-Curing-Potion\MDX2022GameJam - SpecialDelivery\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 246.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.756 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2760ms)
+		BeginReloadAssembly (201ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (2365ms)
+			LoadAssemblies (199ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (680ms)
+			ReleaseScriptCaches (5ms)
+			RebuildScriptCaches (155ms)
+			SetupLoadedEditorAssemblies (1261ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (247ms)
+				BeforeProcessingInitializeOnLoad (227ms)
+				ProcessInitializeOnLoadAttributes (638ms)
+				ProcessInitializeOnLoadMethodAttributes (119ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 2.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7443 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 69 unused Assets / (3.6 MB). Loaded Objects now: 7906.
+Memory consumption went from 335.5 MB to 331.9 MB.
+Total: 6.896800 ms (FindLiveObjects: 0.664500 ms CreateObjectMapping: 1.036500 ms MarkObjects: 4.433300 ms  DeleteObjects: 0.761500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 100768.109521 seconds.
+  path: Assets/Terrain/Terrain_0_0_7deb84b8-18e6-44d7-b268-96a4b05c1063.asset
+  artifactKey: Guid(e1139c78573d23b459312b4e4412127d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/Terrain_0_0_7deb84b8-18e6-44d7-b268-96a4b05c1063.asset using Guid(e1139c78573d23b459312b4e4412127d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '711489635d486766ef6c96b1078365f5') in 0.142845 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Terrain/Terrain_0_0_b69cbda3-1a69-454c-b33a-b2972fe5c04a.asset
+  artifactKey: Guid(c08710ca3fcc5ed4181f956e32efa958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/Terrain_0_0_b69cbda3-1a69-454c-b33a-b2972fe5c04a.asset using Guid(c08710ca3fcc5ed4181f956e32efa958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '429e93cc9af5086234849a6c6698ec63') in 0.054905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Terrain_dst/Terrain_0_0_7deb84b8-18e6-44d7-b268-96a4b05c1063.asset
+  artifactKey: Guid(2c5e354c8bde8be49ae24be4994c46ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain_dst/Terrain_0_0_7deb84b8-18e6-44d7-b268-96a4b05c1063.asset using Guid(2c5e354c8bde8be49ae24be4994c46ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e24e5dc9c75ac0d6751b1642a4f994e') in 0.036745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Shoetty Bang Bang Folder/PT_Physics/Low friction.physicMaterial
+  artifactKey: Guid(e9cf67233b9e02f44b4ce7c54427e721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoetty Bang Bang Folder/PT_Physics/Low friction.physicMaterial using Guid(e9cf67233b9e02f44b4ce7c54427e721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0117248cfec498ac9909621d7533a64') in 0.021940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Terrain/Terrain_0_0_099c48d2-78f3-4bce-8275-39b906ff41d3.asset
+  artifactKey: Guid(c8e1d51fdcae0d14f8f63a41bce8f95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/Terrain_0_0_099c48d2-78f3-4bce-8275-39b906ff41d3.asset using Guid(c8e1d51fdcae0d14f8f63a41bce8f95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f184b66567c6bed0ed9f75aff7947e') in 0.035764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Terrain/Terrain_0_0_0908b03d-66fd-4b9e-980d-fa0fcc94c116.asset
+  artifactKey: Guid(acf7711489fadf84aa696115d819fa8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/Terrain_0_0_0908b03d-66fd-4b9e-980d-fa0fcc94c116.asset using Guid(acf7711489fadf84aa696115d819fa8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acce00df6516212ebcc7d9e893b86bf5') in 0.035532 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Prefabs/Stylized Grass/Demo/HDRP/TerrainHDRP.asset
+  artifactKey: Guid(a66636dce44d41a49aaea0607340f48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Stylized Grass/Demo/HDRP/TerrainHDRP.asset using Guid(a66636dce44d41a49aaea0607340f48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f47a7e05dcc3eae1eaeb863eb429cb51') in 0.095099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.147581 seconds.
+  path: Assets/_TerrainAutoUpgrade_dst/layer_GroundCracked01GroundCracked01_N793646612c42751.terrainlayer
+  artifactKey: Guid(e396d5f666701b4468adf1562e00da93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade_dst/layer_GroundCracked01GroundCracked01_N793646612c42751.terrainlayer using Guid(e396d5f666701b4468adf1562e00da93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316aa0271f62785614dba9949c4a1bd9') in 0.112607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.381238 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_GroundCracked01GroundCracked01_N793646612c42751.terrainlayer
+  artifactKey: Guid(b3119cb2570734b459f9825b2a932ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_GroundCracked01GroundCracked01_N793646612c42751.terrainlayer using Guid(b3119cb2570734b459f9825b2a932ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c36a16b8fb3fb6cae9d2c9c10dca725e') in 0.030494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/_TerrainAutoUpgrade/wood_texture.png
+  artifactKey: Guid(2335e6ff50a9e5b43b974ea5cfe3b2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/wood_texture.png using Guid(2335e6ff50a9e5b43b974ea5cfe3b2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3134881ac5964f48a1ea6e7725813cf9') in 0.090971 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.165804 seconds.
+  path: Assets/HDRPDefaultResources/DefaultLookDevProfile.asset
+  artifactKey: Guid(254320a857a30444da2c99496a186368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources/DefaultLookDevProfile.asset using Guid(254320a857a30444da2c99496a186368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c931021377f36efea5107553a82cd5fb') in 0.009738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/HDRPDefaultResources/DefaultVFXResources.asset
+  artifactKey: Guid(145290c901d58b343bdeb3b4362c9ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources/DefaultVFXResources.asset using Guid(145290c901d58b343bdeb3b4362c9ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee8e253810a2a92b30c84b030b78d652') in 0.068411 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
